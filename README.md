@@ -1,6 +1,3 @@
-# elmdare
-I DARE YOU TO DO ELM. fork me.
-
 Instructions
 
  1. Fork me
