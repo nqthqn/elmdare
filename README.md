@@ -1,15 +1,9 @@
-Instructions
+# Challenge
 
- 1. Fork me
- 2. Switch to a challenge branch
- 3. Read the instructions
- 4. Attempt the challenge
+1. install elm
+2. start the reactor
+3. Fix the bug in `Main.elm`
+3. write a type annotation for the `main` function
+4. Install [fnv](http://package.elm-lang.org/packages/Skinney/fnv/latest)
+5. Display the hash of the string (hint: `toString 123`)
 
-
-Todo
-
- - [ ] come up with coding challenges
- - [ ] put partial code and READMES into branches
- - [ ] think of good prizes (elm swag?)
- - [ ] finish presentation
- - [ ] practice juggling
