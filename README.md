@@ -12,4 +12,4 @@ Todo
  - [ ] put partial code and READMES into branches
  - [ ] think of good prizes (elm swag?)
  - [ ] finish presentation
- - [ ] practice juggling
+ - [x] practice juggling
