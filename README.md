@@ -8,8 +8,8 @@ Instructions
 
 Todo
 
- - [ ] come up with coding challenges
+ - [ ] come up with 5 coding challenges
  - [ ] put partial code and READMES into branches
- - [ ] think of good prizes (elm swag?)
+ - [x] think of good prizes
  - [ ] finish presentation
  - [x] practice juggling
